@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\pages",
+    "\\routes"
+  ],
+  "SelectedNode": "\\routes\\counter.routes.js",
+  "PreviewInSolutionExplorer": false
+}

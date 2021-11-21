@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Roman Voloshchak Automatic Counter",
+  "mongoUri": "mongodb+srv://roman:147258369@cluster0.lpjwc.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl":  "http://localhost:5000"
+}
